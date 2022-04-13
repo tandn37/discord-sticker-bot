@@ -1,4 +1,4 @@
-module github.com/tandn37/discord-sticker-bot
+module github.com/rssnyder/discord-stock-ticker
 
 go 1.16
 
